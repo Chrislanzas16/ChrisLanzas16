@@ -12,6 +12,8 @@ Frontend developer specializing in React, Next.js, TypeScript, and TailwindCSS. 
 * 👥  I'm looking to collaborate on Frontend Projects, SaaS ideas, or anything involving React, Next.js, or clean UI/UX.
 * 💬  When I'm not coding, I'm experimenting with new tools, improving my React/Next.js skills, or working on my next project.
 
+### 🛠️ Tech Stack
+
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a>
