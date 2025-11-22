@@ -7,7 +7,7 @@ Frontend Developer
 Frontend developer specializing in React, Next.js, TypeScript, and TailwindCSS. Experienced in building high-performance, user-focused applications and integrating real APIs. I excel at problem-solving, writing clean and maintainable code, and turning designs into production-ready features. Fast learner with strong engineering fundamentals and the drive to deliver high-quality work consistently.
 
 * 🌍  I'm based in Miami
-* 🖥️  See my portfolio at [ChrisLanzas](http://https://chrislanzas.vercel.app/)
+* 🖥️  See my portfolio at [ChrisLanzas](https://chrislanzas.vercel.app/)
 * ✉️  You can contact me at [chrislanzas89@gmail.com](mailto:chrislanzas89@gmail.com)
 * 🧠  I'm currently learning advanced React patterns and modern best practices - improving state management, component architecture and UI performance.
 * 👥  I'm looking to collaborate on Frontend Projects, SaaS ideas, or anything involving React, Next.js, or clean UI/UX.
