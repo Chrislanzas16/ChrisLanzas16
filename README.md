@@ -38,9 +38,8 @@ Frontend developer specializing in React, Next.js, TypeScript, and TailwindCSS. 
 
 ### Badges
 
+## 📊 GitHub Stats
 
-<b>My GitHub Stats</b>
+![Chrislanzas16's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Chrislanzas16&show_icons=true&theme=transparent&cacheBust=1)
 
-<a href="http://www.github.com/Chrislanzas16"><img src="https://github-readme-stats.vercel.app/api?username=Chrislanzas16&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chrislanzas16's GitHub stats" /></a>
-
-<a href="https://github.com/Chrislanzas16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrislanzas16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Chrislanzas16&layout=compact&theme=transparent&cacheBust=1)
