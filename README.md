@@ -40,6 +40,5 @@ Frontend developer specializing in React, Next.js, TypeScript, and TailwindCSS. 
 
 ## 📊 GitHub Stats
 
-![Chrislanzas16's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Chrislanzas16&show_icons=true&theme=transparent&cacheBust=1)
 
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Chrislanzas16&layout=compact&theme=transparent&cacheBust=1)
